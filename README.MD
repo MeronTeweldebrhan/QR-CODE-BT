@@ -6,7 +6,7 @@ This project is a simple QR code card component designed to encourage users to i
 
 ### Screenshot
 
-<img src="./images/QR-code-perscholas.png" alt="QR Code Card Screenshot">
+<img src="QR-code-perscholas.png" alt="QR Code Card Screenshot">
 
 ### Links
 
