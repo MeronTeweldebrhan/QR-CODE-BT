@@ -11,8 +11,13 @@ This project is a simple QR code card component designed to encourage users to i
 ### Links
 
 - **Live Site URL:** https://qrcodemeron.netlify.app/
-- **Solution URL:** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/your-solution-slug)
+- **Solution URL:** https://www.frontendmentor.io/solutions/qr-code-card-component-with-flexbox-and-responsive-design-use-htmlandcss-Tyk6q6l395 
 
+*I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+ 
+
+Any suggestions on how I can improve are welcome!
 ## My Process
 
 ### Built With
